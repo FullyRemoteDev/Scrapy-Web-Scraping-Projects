@@ -1,0 +1,207 @@
+[
+    {
+        "Group A": {
+            "Manchester City": {
+                "Wins": "4",
+                "Draws": "0",
+                "Lose": "2",
+                "Points": "12"
+            },
+            "Paris Saint-Germain ": {
+                "Wins": "3",
+                "Draws": "2",
+                "Lose": "1",
+                "Points": "11"
+            },
+            "RB Leipzig": {
+                "Wins": "2",
+                "Draws": "1",
+                "Lose": "3",
+                "Points": "7"
+            },
+            "Club Brugge": {
+                "Wins": "1",
+                "Draws": "1",
+                "Lose": "4",
+                "Points": "4"
+            }
+        },
+        "Group B": {
+            "Liverpool": {
+                "Wins": "6",
+                "Draws": "0",
+                "Lose": "0",
+                "Points": "18"
+            },
+            "Atletico Madrid": {
+                "Wins": "2",
+                "Draws": "1",
+                "Lose": "3",
+                "Points": "7"
+            },
+            "FC Porto": {
+                "Wins": "1",
+                "Draws": "2",
+                "Lose": "3",
+                "Points": "5"
+            },
+            "AC Milan": {
+                "Wins": "1",
+                "Draws": "1",
+                "Lose": "4",
+                "Points": "4"
+            }
+        },
+        "Group C": {
+            "Ajax Amsterdam": {
+                "Wins": "6",
+                "Draws": "0",
+                "Lose": "0",
+                "Points": "18"
+            },
+            "Sporting CP": {
+                "Wins": "3",
+                "Draws": "0",
+                "Lose": "3",
+                "Points": "9"
+            },
+            "Borussia Dortmund": {
+                "Wins": "3",
+                "Draws": "0",
+                "Lose": "3",
+                "Points": "9"
+            },
+            "Besiktas": {
+                "Wins": "0",
+                "Draws": "0",
+                "Lose": "6",
+                "Points": "0"
+            }
+        },
+        "Group D": {
+            "Real Madrid": {
+                "Wins": "5",
+                "Draws": "0",
+                "Lose": "1",
+                "Points": "15"
+            },
+            "Internazionale": {
+                "Wins": "3",
+                "Draws": "1",
+                "Lose": "2",
+                "Points": "10"
+            },
+            "Sheriff Tiraspol": {
+                "Wins": "2",
+                "Draws": "1",
+                "Lose": "3",
+                "Points": "7"
+            },
+            "Shakhtar Donetsk": {
+                "Wins": "0",
+                "Draws": "2",
+                "Lose": "4",
+                "Points": "2"
+            }
+        },
+        "Group E": {
+            "Bayern Munich": {
+                "Wins": "6",
+                "Draws": "0",
+                "Lose": "0",
+                "Points": "18"
+            },
+            "Benfica": {
+                "Wins": "2",
+                "Draws": "2",
+                "Lose": "2",
+                "Points": "8"
+            },
+            "Barcelona": {
+                "Wins": "2",
+                "Draws": "1",
+                "Lose": "3",
+                "Points": "7"
+            },
+            "Dynamo Kyiv": {
+                "Wins": "0",
+                "Draws": "1",
+                "Lose": "5",
+                "Points": "1"
+            }
+        },
+        "Group F": {
+            "Manchester United": {
+                "Wins": "3",
+                "Draws": "2",
+                "Lose": "1",
+                "Points": "11"
+            },
+            "Villarreal": {
+                "Wins": "3",
+                "Draws": "1",
+                "Lose": "2",
+                "Points": "10"
+            },
+            "Atalanta": {
+                "Wins": "1",
+                "Draws": "3",
+                "Lose": "2",
+                "Points": "6"
+            },
+            "Young Boys": {
+                "Wins": "1",
+                "Draws": "2",
+                "Lose": "3",
+                "Points": "5"
+            }
+        },
+        "Group G": {
+            "Lille": { "Wins": "3", "Draws": "2", "Lose": "1", "Points": "11" },
+            "FC Salzburg": {
+                "Wins": "3",
+                "Draws": "1",
+                "Lose": "2",
+                "Points": "10"
+            },
+            "Sevilla": {
+                "Wins": "1",
+                "Draws": "3",
+                "Lose": "2",
+                "Points": "6"
+            },
+            "VfL Wolfsburg": {
+                "Wins": "1",
+                "Draws": "2",
+                "Lose": "3",
+                "Points": "5"
+            }
+        },
+        "Group H": {
+            "Juventus": {
+                "Wins": "5",
+                "Draws": "0",
+                "Lose": "1",
+                "Points": "15"
+            },
+            "Chelsea": {
+                "Wins": "4",
+                "Draws": "1",
+                "Lose": "1",
+                "Points": "13"
+            },
+            "Zenit St Petersburg": {
+                "Wins": "1",
+                "Draws": "2",
+                "Lose": "3",
+                "Points": "5"
+            },
+            "Malmo FF": {
+                "Wins": "0",
+                "Draws": "1",
+                "Lose": "5",
+                "Points": "1"
+            }
+        }
+    }
+]
