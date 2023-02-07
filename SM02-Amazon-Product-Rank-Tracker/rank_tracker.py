@@ -5,8 +5,9 @@ from datetime import date
 
 class RankTrackerSpider(scrapy.Spider):
     name = "rank_tracker"
+    query = 'python for beginners'
 
-    def __init__(self, query='python for beginners', *args, **kwargs):
+    def __init__(self, query=None, *args, **kwargs):
         super().__init__(*args, **kwargs)
 
         self.base_url = "https://www.amazon.com"
@@ -14,10 +15,12 @@ class RankTrackerSpider(scrapy.Spider):
 
         self.rank = None
         self.page_number = 1
-        self.query = query
+        self.query = query if query else self.query
+
+        print("[ query ]: ", self.query)
 
         self.start_urls = [self.search_url.format(
-            query=query.replace(' ', '+')
+            query=self.query.replace(' ', '+')
         )]
 
     def parse(self, response):
